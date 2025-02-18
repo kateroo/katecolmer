@@ -306,28 +306,30 @@
               }
               let S = R.findIndex(({ href: p }) => p && y(p) === y(D));
               if (!(S < 0)) {
-                if (i) {
-                  let prevItem = R[S - 1];
-                  if (prevItem && !t) {
-                    let newHref = prevItem.element.getAttribute("href");
-                    let targetLink = i.tagName.toLowerCase() === "a" ? i : i.querySelector("a");
-                    if (targetLink) {
-                      targetLink.setAttribute("href", newHref);
-                    }
-                    if (l) l.remove();
-                    t = true;
-                  } else if (l) {
-                    let newHref =
-                      l.tagName.toLowerCase() === "a"
-                        ? l.getAttribute("href")
-                        : (l.querySelector("a") ? l.querySelector("a").getAttribute("href") : "#");
-                    let targetLink = i.tagName.toLowerCase() === "a" ? i : i.querySelector("a");
-                    if (targetLink) {
-                      targetLink.setAttribute("href", newHref);
-                    }
-                    i.appendChild(l);
-                  }
-                }
+if (i) {
+  let prevItem = R[S - 1];
+  if (prevItem && !t) {
+    let anchor = prevItem.element.querySelector("a");
+    let newHref = anchor ? anchor.getAttribute("href") : null;
+    if (newHref) {
+      let targetLink = i.tagName.toLowerCase() === "a" ? i : i.querySelector("a");
+      if (targetLink) {
+        targetLink.setAttribute("href", newHref);
+      }
+    }
+    if (l) l.remove();
+    t = true;
+  } else if (l) {
+    let anchor = l.querySelector("a");
+    let newHref = anchor ? anchor.getAttribute("href") : "#";
+    let targetLink = i.tagName.toLowerCase() === "a" ? i : i.querySelector("a");
+    if (targetLink) {
+      targetLink.setAttribute("href", newHref);
+    }
+    i.appendChild(l);
+  }
+}
+
                 if (c) {
                   let nextItem = R[S + 1];
                   if (nextItem && !r) {
