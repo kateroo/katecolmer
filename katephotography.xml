@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage: Highest Priority -->
+  <url>
+    <loc>https://kates-wedding-photography.webflow.io/</loc>
+    <lastmod>2025-03-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- About Page: Second Highest -->
+  <url>
+    <loc>https://kates-wedding-photography.webflow.io/about</loc>
+    <lastmod>2025-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Contact Page (assumed as Message): Third in Priority -->
+  <url>
+    <loc>https://kates-wedding-photography.webflow.io/message</loc>
+    <lastmod>2025-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Pet Photography Page (Puppylove): Equal Priority with Weddings -->
+  <url>
+    <loc>https://kates-wedding-photography.webflow.io/pet-photography</loc>
+    <lastmod>2025-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Wedding Page: Equal Priority with Pet Photography -->
+  <url>
+    <loc>https://kates-wedding-photography.webflow.io/wedding</loc>
+    <lastmod>2025-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Terms & Conditions: Lowest Priority -->
+  <url>
+    <loc>https://kates-wedding-photography.webflow.io/terms-conditions</loc>
+    <lastmod>2025-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>
