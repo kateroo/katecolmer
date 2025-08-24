@@ -1,47 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    <url>
-        <loc>https://www.huckleberryway.ca</loc>
-        <priority>1.0</priority> <!-- Main page (highest priority) -->
-    </url>
-    <url>
-        <loc>https://www.huckleberryway.ca/system</loc>
-        <priority>0.8</priority> <!-- Important but below homepage -->
-    </url>
-    <url>
-        <loc>https://www.huckleberryway.ca/work</loc>
-        <priority>0.5</priority> <!-- Less important but still needed -->
-    </url>
-    <url>
-        <loc>https://www.huckleberryway.ca/about</loc>
-        <priority>0.5</priority> <!-- Less important but still needed -->
-    </url>
-    <url>
-        <loc>https://www.huckleberryway.ca/contact</loc>
-        <priority>0.5</priority> <!-- Less important but still needed -->
-    </url>
-    <url>
-        <loc>https://www.huckleberryway.ca/case-study-maple-leaf-foods</loc>
-        <priority>0.5</priority> <!-- Less important but still needed -->
-    </url>
-    <url>
-        <loc>https://www.huckleberryway.ca/case-study-toyota</loc>
-        <priority>0.5</priority> <!-- Less important but still needed -->
-    </url>
-    <url>
-        <loc>https://www.huckleberryway.ca/case-study-microsoft</loc>
-        <priority>0.5</priority> <!-- Less important but still needed -->
-    </url>
-    <url>
-        <loc>https://www.huckleberryway.ca/terms-and-conditions</loc>
-        <priority>0.1</priority> <!-- Less important but still needed -->
-    </url>
-    <url>
-        <loc>https://www.huckleberryway.ca/privacy-policy</loc>
-        <priority>0.1</priority> <!-- Less important but still needed -->
-    </url>
-    <url>
-        <loc>https://www.huckleberryway.ca/return-policy</loc>
-        <priority>0.1</priority> <!-- Less important but still needed -->
-    </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.huckleberryway.ca/</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/system</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/work</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/about</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/contact</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/blog</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/case-study-maple-leaf-foods</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/case-study-toyota</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/case-study-microsoft</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/blog/elevate-your-customer-experience-with-ai-powered-inbound-voice-assistants</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/blog/level-up-your-customer-support-webchat-ai</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/blog/ai-search-for-business</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/blog/how-ai-powered-reviews-for-business-transformation</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/blog/blog-map-pack</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/blog/huckleberry-way-your-guide-to-ai-tools-for-canadian-business</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/terms-and-conditions</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.1</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/privacy-policy</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.1</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/return-policy</loc>
+    <lastmod>2025-08-23</lastmod>
+    <priority>0.1</priority>
+  </url>
 </urlset>
