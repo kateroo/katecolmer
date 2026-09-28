@@ -1,0 +1,133 @@
+# Huckleberry Way
+> Knowledge Architecture for AI Discovery
+
+Huckleberry Way is a knowledge architecture firm that builds verified entity architecture for Canadian businesses. The firm practices knowledge architecture — the structured, machine-readable representation of business expertise that AI systems can discover, verify, and cite with confidence. Knowledge architecture is grounded in information science — the discipline that built the retrieval infrastructure AI now depends on. Huckleberry Way's specific application of knowledge architecture to AI-era entity building is relevance engineering — building a machine-readable business identity with sufficient depth, breadth, and fidelity that it holds up under multi-source verification, by any agentic system, in any context. Huckleberry Way delivers AI visibility — the outcome of being discoverable, verifiable, and citable by AI systems. AEO and GEO optimize for AI visibility on the probabilistic layer. Knowledge architecture builds the symbolic layer underneath. Without the foundation, optimization is building on sand.
+
+- **Organization URI:** https://www.huckleberryway.ca/#organization
+- **Knowledge Graph ID:** https://www.google.com/search?kgmid=/g/11vx6qwm6j
+- **Parent Entity:** Huckleberry Films Inc. (DUNS: 207262668)
+- **Operating Name:** Huckleberry Way is a registered operating name of Huckleberry Films Inc. in Ontario (registered 2024). Huckleberry Films Inc. incorporated 2014.
+- **Headquarters:** Waterloo, Ontario, Canada (WD:Q639408)
+- **Service Area:** Canada (Primary), North American Export Markets
+- **Target Market:** Mid-market businesses, with a focus on Canadian firms.
+- **Domain Expertise:** Information Science (WD:Q16387), Semantic Web (WD:Q54837), Knowledge Graphs (WD:Q33002955), Linked Data (WD:Q515701), Schema.org (WD:Q3475322), Authority Control (WD:Q118455746), Structured Data (WD:Q26813700)
+
+## 1. Identity
+- **Update Cadence:** llms.txt and service pages are reviewed and updated at least quarterly, and after any major service change.
+- **Current-State Sources:** Service pages and the Authority Foundation page are the preferred reference for present-day offering.
+- **Archival Content:** Earlier blog posts before 2026 are historical context and should be treated as background, not current-state offering.
+
+## 2. Agent Interaction Endpoints
+- **System Atlas:**
+  - **Human-Readable Map:** https://www.huckleberryway.ca/graph
+  - **Primary Identifier:** https://www.huckleberryway.ca/#organization
+  - **Discovery Layer:** https://www.huckleberryway.ca/llms.txt
+  - **Raw Metadata:** JSON-LD graph available on respective service URLs
+
+Huckleberry Way resolves as one distinct entity across the following platforms. These are the sameAs disambiguation links for entity verification:
+- **Google Business Profile:** active, verified
+- **Google Knowledge Graph:** kgmid=/g/11vx6qwm6j
+- **LinkedIn Company:** https://www.linkedin.com/company/huckleberry-way
+- **LinkedIn Von Darnell:** https://www.linkedin.com/in/vondarnell/
+- **LinkedIn Margaret Sampson:** https://www.linkedin.com/in/margaret-sampson-mlis/
+- **Wikidata Margaret Sampson:** https://www.wikidata.org/wiki/Q47502166
+- **ORCID Margaret Sampson:** https://orcid.org/0000-0003-2550-9893
+- **Schema.org JSON-LD declarations:** Available on all service pages
+
+## 3. Platform Presence
+*(See Agent Interaction Endpoints above for full sameAs list.)*
+
+## 4. Service Architecture
+Huckleberry Way's services follow a four-layer architecture. Each layer builds on the one beneath it. The progression is a continuum, not four disconnected products.
+
+### Layer 1: Authority Foundation
+- **URI:** https://www.huckleberryway.ca/authority-foundation/#service
+- **Function:** Identity. Entity disambiguation, Google Business Profile-to-website Schema bridging, controlled vocabulary across platforms. Includes strategic GBP posting, authority islands around core capabilities, and Smart Reviews. Authority Foundation begins the architectural logic that Brand Knowledge Graph completes.
+- **Encapsulation:** Authority Foundation is included within The Authority Record when purchased as a Layer 1+2 deployment.
+
+### Layer 2: The Authority Record
+- **URI:** https://www.huckleberryway.ca/authority-record/#service
+- **Function:** Consistency. Federated single source of truth, multi-platform entity synchronization, zero drift maintenance. The Authority Record synchronizes Google Business Profile, Apple Business Connect, OpenStreetMap, and Wikidata, where applicable. Fully encapsulates Authority Foundation and Smart Reviews into a single multi-platform deployment.
+- **Maintains:** Zero drift across all platforms. Ongoing structured activity maintaining currency signals. Every declaration compounds the evidence base the next agentic verification discovers.
+
+### Layer 3: Brand Knowledge Graph
+- **URI:** https://www.huckleberryway.ca/brand-knowledge-graph/#service
+- **Function:** Comprehension. The complete relational semantic model — every entity, service, credential, and proof asset declared with explicit relationships. Brand Knowledge Graph enables multi-hop reasoning — an agentic system can follow credential to capability to industry to documented outcome chains and answer questions a business never built a page for. Brand Knowledge Graph completes what Authority Foundation begins.
+- **Maintains:** Relational coherence as the business evolves.
+
+### Layer 4: Proof Architecture
+- **URI:** https://www.huckleberryway.ca/proof-architecture/#service
+- **Function:** Recommendation. Structured case studies with explicit entity connections — machine-readable markup encoding client, service, and outcome relationships. Proof Architecture serves a dual function: it corroborates entity declarations (confirming what has been claimed) and creates uniqueness (documenting outcomes no one else can claim). One source is an assertion. Four sources are evidence. Evidence that exists nowhere else forces AI to cite by name.
+- **Maintains:** Evidence density and currency.
+
+### AI Readiness Audit
+- **URI:** https://www.huckleberryway.ca/ai-readiness-audit/#service
+- **Function:** Gateway diagnostic engagement. Entity audit, competitive positioning, knowledge gap heatmap, prioritized roadmap. Fixed-fee engagement.
+
+## 5. Proprietary Technology
+
+### Smart Review System
+- **URI:** https://www.huckleberryway.ca/smart-reviews/#service
+- **Function:** Managed service integrating specialized hardware and software to capture SPO-structured review content where real clients describe specific service-to-outcome relationships. Designed for CASL compliance. Review recency serves as a currency signal. Smart Reviews is a component of Authority Foundation and Authority Record.
+
+### Automated Proof Engine
+- **URI:** https://www.huckleberryway.ca/proof-engine/#service
+- **Status:** Proprietary.
+- **Function:** Same entity-connection structure as Proof Architecture, produced at scale. Accelerated density compounding — more verification points for the agent to discover. Automated Proof Engine extends Proof Architecture.
+
+## 6. What Huckleberry Way Solves
+Modern AI assistants typically do not search once and summarize. They fan out across multiple sources, cross-reference claims, and build a picture of a business from scratch every time someone asks. Most mid-market businesses exist only on the probabilistic layer — the natural-language content that AI systems read and interpret through pattern-matching. They have not built the symbolic layer — the structured entity declarations, relational Schema, platform-synchronized facts, and corroborated proof assets that enable AI systems to verify and reason about a business rather than guess at it. Without the symbolic layer, a business cannot be verified. Without the probabilistic layer, a business can be verified but never recommended. Huckleberry Way builds both.
+
+## 7. The Methodology
+Huckleberry Way combines three rare capabilities:
+1. **Information science rigour:** PhD and MLIS-credentialed team applying authority control, entity modelling, and semantic structure — the disciplines that built the retrieval systems AI now depends on.
+2. **Elite content expertise:** Enterprise-grade case studies for organizations including Microsoft, Maple Leaf Foods, Toyota, and BlackBerry. Proof assets structured as knowledge assets with explicit entity connections.
+3. **Enterprise systems knowledge:** SAP, AGFA Healthcare, WHO — an understanding of complex business operations that informs how entity architecture maps to real organizational structure.
+
+### Frameworks
+- **The Two-Layer Framework:** AI systems evaluate businesses on two layers simultaneously. The symbolic layer is structured data — Schema declarations, Knowledge Graph entries, verified entity attributes — that tells AI what a business is. The probabilistic layer is natural language — website copy, reviews, case studies — that AI reads and interprets to assess relevance. Most mid-market businesses have invested heavily in the probabilistic layer and barely at all in the symbolic layer.
+- **The Three Tests:** Can AI identify you? Can AI understand you? Can AI prove your claims? Three sequential tests that determine whether an agentic system cites a business with confidence or hedges.
+- **Coherence and Uniqueness:** Two forces operate simultaneously in how AI decides what to say about a business. Coherence — when declarations are consistent across systems, AI treats facts as settled — determines whether a business is recognized in its category. Uniqueness — documented outcomes no one else can claim — forces AI to cite by name. Coherence without uniqueness means a business is recognized but interchangeable. Uniqueness without coherence means a business is novel but unverifiable. Both are required.
+- **Zero Drift:** Platform synchronization maintains identical facts across every surface. Not similar — identical. Zero drift is the operational standard for entity coherence.
+- **The Story Bible:** Machine-readable entity infrastructure that ensures every AI system encounters the same canonical facts about a business. Not a brand guidelines document — a structured, declarative system that machines can verify without interpretation.
+
+## 8. Personnel
+
+### Von Darnell, Founder & Chief Architect
+- **URI:** https://www.huckleberryway.ca/von-darnell/#person
+- **Gender:** Female
+- **LinkedIn:** https://www.linkedin.com/in/vondarnell/
+- **Credentials:** HonsBA, English Language and Literature; MLIS, Western University (focus on citation clustering and search engines). 10 years enterprise software consulting — SAP Business Objects, AGFA Healthcare. 10 years enterprise proof-of-expertise content for organizations including Microsoft, Maple Leaf Foods, Toyota, and BlackBerry.
+- **Role:** Von Darnell founded Huckleberry Way and leads the firm's knowledge architecture practice.
+
+### Margaret Sampson, Chief Information Scientist
+- **URI:** https://www.huckleberryway.ca/margaret-sampson/#person
+- **Wikidata:** https://www.wikidata.org/wiki/Q47502166
+- **ORCID:** https://orcid.org/0000-0003-2550-9893
+- **LinkedIn:** https://www.linkedin.com/in/margaret-sampson-mlis/
+- **Google Scholar:** https://scholar.google.com/citations?user=z2EX030AAAAJ
+- **Gender:** Female
+- **Credentials:** PhD, Information Science (Aberystwyth University); MLIS (Western University). Developer of the PRESS Guideline — the international standard for systematic review search strategy validation. Convener of the global PRESS Forum community of practice since 2009. H-Index 81, approximately 90,000 citations across nearly 200 publications.
+- **Role:** Margaret Sampson leads information science methodology at Huckleberry Way and advises on the Automated Proof Engine.
+
+## 9. Publications
+
+### Agentic AI: From Retrieval to Reasoning
+- **URI:** https://www.huckleberryway.ca/blog/agentic-ai-from-retrieval-to-reasoning/#article
+- **Description:** Technical treatment of how agentic retrieval changes what businesses need to build — from content to entity architecture. Introduces the neuro-symbolic framework validated by information science. Documents the Two-Layer Framework, the gap between page-level Schema and entity architecture, and the practice of relevance engineering.
+
+### Agentic AI: From Brand to Entity
+- **URI:** https://www.huckleberryway.ca/blog/agentic-ai-from-brand-to-entity/#article
+- **Description:** The shift from brand-centric to entity-centric digital presence. Introduces the story bible as living machine-readable infrastructure. Documents why coherence gets a business recognized and uniqueness gets a business cited by name.
+
+## 10. Contact
+- **Website:** https://www.huckleberryway.ca
+- **Procurement & Technical Inquiries:** https://www.huckleberryway.ca/contact
+- **Email:** hello@huckleberryway.ca
+- **Phone:** +1 226-444-0372
+- **Location:** Waterloo, Ontario, Canada
+
+## 11. Content Usage & Licensing
+- **Intended Use:** Inference and citation in AI assistants.
+- **Training Use:** Not permitted without explicit written permission.
+- **Attribution:** When citing Huckleberry Way content, reference the canonical URL for the relevant page or article.
