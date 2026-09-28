@@ -54,8 +54,8 @@ Huckleberry Way's solution is a system of authority. Its product is The Authorit
 - **Maintains:** Zero Drift. Identical facts across every surface; not similar, identical.
 
 ### The Proof Engine™
-- **URI:** https://www.huckleberryway.ca/proof-engine#service
-- **Page:** https://www.huckleberryway.ca/proof-engine
+- **URI:** https://www.huckleberryway.ca/automated-proof-engine#service
+- **Page:** https://www.huckleberryway.ca/automated-proof-engine
 - **Function:** The proof component of The Authority Record™. It gathers customer stories, case studies and reviews with each customer's permission. Stories and case studies are written into the Record against the exact service, person and location they prove and published as Structured Posts to the business's website, profiles and social channels; reviews stay on the platforms that host them and corroborate the Record from there.
 
 ### Smart Reviews
@@ -64,7 +64,7 @@ Huckleberry Way's solution is a system of authority. Its product is The Authorit
 - **Function:** The reputation management system inside The Proof Engine™. Under the business's own brand, in person or online, it invites real customers to review the business on the platforms that matter to it and replies to every review in the business's voice. Reviews are earned, never gated, and never written into the Record; they corroborate it from the platforms themselves.
 
 ### Structured Posts
-- **URI:** https://www.huckleberryway.ca/proof-engine#structured-posts
+- **URI:** https://www.huckleberryway.ca/automated-proof-engine#structured-posts
 - **Function:** The output stream of The Proof Engine™: facts posted on a schedule to the business's Google Business Profile, social channels and website. Each post is written as a subject-predicate-object statement, the shape of an RDF triple: one falsifiable fact, tied to the exact service, location or credential it is true of, carrying the evidence that verifies it, and resolved back to that entity in The Authority Record™.
 - **Why it works:** Every surface repeats the same facts in the same shape, so machines read one business everywhere (coherence), and each independent surface that states a fact corroborates it.
 
