@@ -16,16 +16,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.huckleberryway.ca/brand-knowledge-graph</loc>
-    <lastmod>2026-03-05</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.huckleberryway.ca/proof-architecture</loc>
-    <lastmod>2026-03-05</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://www.huckleberryway.ca/smart-reviews</loc>
     <lastmod>2025-08-23</lastmod>
     <priority>0.8</priority>
@@ -33,6 +23,21 @@
   <url>
     <loc>https://www.huckleberryway.ca/work</loc>
     <lastmod>2025-09-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/case-study-excellent-sign-group</loc>
+    <lastmod>2026-09-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/case-study-aquascapes</loc>
+    <lastmod>2026-09-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/case-study-prescientx</loc>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -86,23 +91,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.huckleberryway.ca/canexport-sme-funding</loc>
-    <lastmod>2026-03-22</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.huckleberryway.ca/global-trade-authority</loc>
-    <lastmod>2026-07-15</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.huckleberryway.ca/blog</loc>
     <lastmod>2025-09-01</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.huckleberryway.ca/automated-proof-engine</loc>
-    <lastmod>2026-03-22</lastmod>
+    <loc>https://www.huckleberryway.ca/proof-engine</loc>
+    <lastmod>2026-09-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>

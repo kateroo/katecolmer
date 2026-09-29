@@ -54,8 +54,8 @@ Huckleberry Way's solution is a system of authority. Its product is The Authorit
 - **Maintains:** Zero Drift. Identical facts across every surface; not similar, identical.
 
 ### The Proof Engine™
-- **URI:** https://www.huckleberryway.ca/automated-proof-engine#service
-- **Page:** https://www.huckleberryway.ca/automated-proof-engine
+- **URI:** https://www.huckleberryway.ca/proof-engine#service
+- **Page:** https://www.huckleberryway.ca/proof-engine
 - **Function:** The proof component of The Authority Record™. It gathers customer stories, case studies and reviews with each customer's permission. Stories and case studies are written into the Record against the exact service, person and location they prove and published as Structured Posts to the business's website, profiles and social channels; reviews stay on the platforms that host them and corroborate the Record from there.
 
 ### Smart Reviews
@@ -64,7 +64,7 @@ Huckleberry Way's solution is a system of authority. Its product is The Authorit
 - **Function:** The reputation management system inside The Proof Engine™. Under the business's own brand, in person or online, it invites real customers to review the business on the platforms that matter to it and replies to every review in the business's voice. Reviews are earned, never gated, and never written into the Record; they corroborate it from the platforms themselves.
 
 ### Structured Posts
-- **URI:** https://www.huckleberryway.ca/automated-proof-engine#structured-posts
+- **URI:** https://www.huckleberryway.ca/proof-engine#structured-posts
 - **Function:** The output stream of The Proof Engine™: facts posted on a schedule to the business's Google Business Profile, social channels and website. Each post is written as a subject-predicate-object statement, the shape of an RDF triple: one falsifiable fact, tied to the exact service, location or credential it is true of, carrying the evidence that verifies it, and resolved back to that entity in The Authority Record™.
 - **Why it works:** Every surface repeats the same facts in the same shape, so machines read one business everywhere (coherence), and each independent surface that states a fact corroborates it.
 
@@ -134,8 +134,8 @@ Huckleberry Way combines three capabilities that rarely sit in one firm:
 
 ## 9. Work
 - [Excellent Sign Group](https://www.huckleberryway.ca/case-study-excellent-sign-group): Ontario sign manufacturer, founded 1965; one company to Google and AI search; booked to 180 percent of capacity within months.
-- [Aquascapes Recreational Contractors](https://www.huckleberryway.ca/case-study-aquascapes): Waterloo Region contractor; new-build enquiries up 300 percent, as validated by the client.
-- [Prescientx](https://www.huckleberryway.ca/case-study-prescientx): Waterloo medical-device manufacturer; sales pipeline value up about 300 percent in a year, as validated by the client.
+- [Aquascapes Recreational Contractors](https://www.huckleberryway.ca/case-study-aquascapes): Waterloo Region recreational contractor, since 1994; since the rebuild, new-build enquiries up 300 percent and retail store traffic and revenue quadrupled, as validated by the client.
+- [Prescientx](https://www.huckleberryway.ca/case-study-prescientx): Waterloo medical-device manufacturer; from September 2025 to September 2026, sales pipeline value up about 300 percent (as validated by the client), qualified inbound opportunities fourfold (from its CRM) and website traffic up 450 percent.
 - Founding deployment: a nine-location Ontario financial institution went from nine profiles machines could not tell apart to 77 times the AI citations, with a 144 percent rise in three weeks against 5 percent for the one page left as a control.
 
 ## 10. Writing
