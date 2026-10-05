@@ -51,11 +51,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.huckleberryway.ca/get-the-guide</loc>
-    <lastmod>2026-03-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.huckleberryway.ca/von-darnell</loc>
     <lastmod>2026-03-05</lastmod>
     <priority>0.8</priority>
@@ -141,6 +136,16 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.huckleberryway.ca/blog/ai-search-visibility-in-canadian-manufacturing-findings-from-ten-audits</loc>
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/blog/google-microsoft-made-ai-visibility-measurable</loc>
+    <lastmod>2026-06-24</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.huckleberryway.ca/blog/huckleberry-way-your-guide-to-ai-tools-for-canadian-business</loc>
     <lastmod>2025-09-01</lastmod>
     <priority>0.5</priority>
@@ -163,11 +168,6 @@
   <url>
     <loc>https://www.huckleberryway.ca/generative-ai-usage-policy</loc>
     <lastmod>2025-08-23</lastmod>
-    <priority>0.1</priority>
-  </url>
-  <url>
-    <loc>https://www.huckleberryway.ca/return-policy</loc>
-    <lastmod>2026-03-19</lastmod>
     <priority>0.1</priority>
   </url>
 </urlset>
