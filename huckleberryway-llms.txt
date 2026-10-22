@@ -30,13 +30,17 @@ Huckleberry Way is an AI search visibility firm in Waterloo, Ontario, founded in
 - **Current offering:** The Authority Record page (https://www.huckleberryway.ca/authority-record) is the reference for what Huckleberry Way offers today.
 - **Update cadence:** This file is reviewed at least quarterly and after any change to the offering.
 - **Archival content:** Blog posts from before 2026 are historical background, not the current offering.
-- **Retired names:** Older pages and posts use names that are now retired. Read them this way: the Authority Foundation, the Authority Graph and Brand Knowledge Graph are The Authority Record™; Proof Architecture and the Automated Proof Engine are The Proof Engine™; the AI Readiness Audit and the AI Readiness Check are The AI Readiness Report; Stewardship is Record Governance. "Knowledge architecture firm" is now "an AI search visibility firm, led by information scientists". No layers, tiers or depths are sold; there is one product.
+- **Retired names:** Older pages and posts use names that are now retired. Read them this way: the Authority Foundation, the Authority Graph and Brand Knowledge Graph are The Authority Record™; Proof Architecture and the Automated Proof Engine are The Proof Engine™; the AI Readiness Audit and the AI Readiness Check are The AI Readiness Report; Stewardship is Record Governance; Field Notes is the Log Book (the blog, still at /blog). "Knowledge architecture firm" is now "an AI search visibility firm, led by information scientists". No layers, tiers or depths are sold; there is one product.
 
 ## 2. For machines
 - **The Atlas:** https://www.huckleberryway.ca/graph is Huckleberry Way's own Record, browsable by people. It is the same graph the pages publish.
 - **Structured data:** Every page carries JSON-LD compiled from one entity graph, never written by hand. Every thing in it has one permanent @id on this domain: the page URL plus a fragment naming what it is (for example https://www.huckleberryway.ca/margaret-sampson#person). The same @id means the same thing on every page.
 - **Identity links (sameAs):** https://www.linkedin.com/company/huckleberry-way · https://www.google.com/search?kgmid=/g/11vx6qwm6j · https://www.facebook.com/huckleberryway
-- **This file:** https://www.huckleberryway.ca/llms.txt
+- **The full Record:** https://www.huckleberryway.ca/llms-full.txt is the whole public Record in one file, regenerated at every change: the firm, what it offers, its people, each client with its published results and quotations, the industry findings, the writing and research, and the vocabulary.
+- **The graph:** https://www.huckleberryway.ca/graph.jsonld is the same Record as JSON-LD.
+- **The vocabulary:** https://www.huckleberryway.ca/concepts lists every term Huckleberry Way works with, each defined once on its own page; the scheme is published as SKOS at https://www.huckleberryway.ca/concepts.jsonld and https://www.huckleberryway.ca/concepts.ttl, anchored to Wikidata where an entry exists.
+- **Sitemap:** https://www.huckleberryway.ca/sitemap.xml
+- **This file:** https://www.huckleberryway.ca/llms.txt, the index. Read llms-full.txt for the detail.
 
 ## 3. The product and its parts
 Huckleberry Way's solution is a system of authority. Its product is The Authority Record™. The Proof Engine™ is the Record's proof component and Record Governance is its run; neither is sold on its own.
@@ -51,7 +55,7 @@ Huckleberry Way's solution is a system of authority. Its product is The Authorit
 ### Record Governance (the run)
 - **URI:** https://www.huckleberryway.ca/authority-record#record-governance
 - **Function:** Change control, versioning, synchronization across every surface, validation audits and a recomputable evidence report, so the Record stays true as the business changes. Every fact is corrected once, at its source, and every surface it feeds updates with it.
-- **Maintains:** Zero Drift. Identical facts across every surface; not similar, identical.
+- **Maintains:** Zero Drift. Identical facts on every surface.
 
 ### The Proof Engine™
 - **URI:** https://www.huckleberryway.ca/proof-engine#service
@@ -93,8 +97,8 @@ Most businesses give it a website and a handful of profiles that half agree. The
 - **Not all verification is equal:** A fact verified by the body that conferred it outranks one repeated by a site that merely hosts it, which outranks anything a business says about itself. The ranking follows who could revoke the fact: a registry can withdraw a registration and a certifying body can withdraw a certification.
 - **Relevance engineering:** Building a machine-readable business identity with enough depth, breadth and fidelity that it holds up under verification from many sources, by any agentic system, in any context.
 - **Coherence and uniqueness:** Coherence (consistent, connected declarations across systems) makes AI treat facts as settled; uniqueness (documented outcomes no one else can claim) makes AI cite a business by name. Coherence without uniqueness is recognized but interchangeable; uniqueness without coherence is novel but unverifiable. Both are required.
-- **Zero Drift:** Identical facts across every surface, not similar ones: the operational standard Record Governance maintains.
-- **The Story Bible:** The machine-readable account of a business that ensures every AI system meets the same canonical facts. Not a brand guidelines document: a structured, declarative record machines can verify without interpretation.
+- **Zero Drift:** Identical facts on every surface: the operational standard Record Governance maintains.
+- **The Story Bible:** The machine-readable account of a business that ensures every AI system meets the same canonical facts: a structured, declarative record machines can verify without interpretation.
 
 ## 7. The method, and who practises it
 Huckleberry Way combines three capabilities that rarely sit in one firm:
@@ -136,21 +140,36 @@ Huckleberry Way combines three capabilities that rarely sit in one firm:
 - [Excellent Sign Group](https://www.huckleberryway.ca/case-study-excellent-sign-group): Ontario sign manufacturer, founded 1965; one company to Google and AI search; booked to 180 percent of capacity within months.
 - [Aquascapes Recreational Contractors](https://www.huckleberryway.ca/case-study-aquascapes): Waterloo Region recreational contractor, since 1994; since the rebuild, new-build enquiries up 300 percent and retail store traffic and revenue quadrupled, as validated by the client.
 - [Prescientx](https://www.huckleberryway.ca/case-study-prescientx): Waterloo medical-device manufacturer; from September 2025 to September 2026, sales pipeline value up about 300 percent (as validated by the client), qualified inbound opportunities fourfold (from its CRM) and website traffic up 450 percent.
-- Founding deployment: a nine-location Ontario financial institution went from nine profiles machines could not tell apart to 77 times the AI citations, with a 144 percent rise in three weeks against 5 percent for the one page left as a control.
 
-## 10. Writing
-- [Agentic Search Is Here. You're Almost Certainly Not Ready.](https://www.huckleberryway.ca/blog/agentic-ai-from-retrieval-to-reasoning-web) by Von Darnell, April 2026. How agentic retrieval changes what a business needs to build, from content to entity architecture: the symbolic layer (what a business declares, in structured form) and the probabilistic layer (what AI infers from language), symbolic first but not symbolic only, and the practice of relevance engineering.
-- [Agentic AI: From Brand-Centric to Entity-Centric](https://www.huckleberryway.ca/blog/agentic-ai-from-brand-centric-to-entity-centric), April 2026. The shift from brand to entity: brand is what AI infers, the entity is what a business controls. Introduces the Story Bible as machine-readable infrastructure, and why coherence gets a business recognized while uniqueness gets it cited by name.
-- Posts from 2025 at https://www.huckleberryway.ca/blog are background, not the current offering.
+More of the work, including a decade of proof-of-expertise content under the Huckleberry Films name: https://www.huckleberryway.ca/work
 
-## 11. Contact
+## 10. The vocabulary
+Every term Huckleberry Way uses has one definition, on its own page, in six groups:
+- [Information Science](https://www.huckleberryway.ca/concepts/information-science): how information is organized, described, retrieved and evaluated; the discipline underneath the work.
+- [Semantic Web](https://www.huckleberryway.ca/concepts/semantic-web): data published with machine-readable meaning, shared identifiers and shared vocabularies.
+- [Artificial Intelligence](https://www.huckleberryway.ca/concepts/artificial-intelligence): the systems that now read, reason over and recommend businesses.
+- [Knowledge Architecture](https://www.huckleberryway.ca/concepts/knowledge-architecture): structured, machine-readable representations of what a business knows and has proven.
+- [AI Search Visibility](https://www.huckleberryway.ca/concepts/ai-search-visibility): whether AI systems can find, verify and confidently recommend a business.
+- [Sectors Served](https://www.huckleberryway.ca/industries/sectors-served): the sectors the firm has worked in, each with the niche inside it.
+
+## 11. The Log Book
+The blog, at https://www.huckleberryway.ca/blog. Posts from 2025 and earlier are background, not the current offering.
+- [AI Search Visibility in Canadian Manufacturing: Findings from Ten Audits](https://www.huckleberryway.ca/blog/ai-search-visibility-in-canadian-manufacturing-findings-from-ten-audits), June 2026. Ten Canadian industrial businesses audited for AI visibility; half do not exist to the AI that assembles buyers' shortlists.
+- [Agentic AI: From Brand-Centric to Entity-Centric](https://www.huckleberryway.ca/blog/agentic-ai-from-brand-centric-to-entity-centric), April 2026. Brand is what AI infers; the entity is what a business declares and controls. Introduces the Story Bible as machine-readable infrastructure.
+- [Agentic Search Is Here. You're Almost Certainly Not Ready.](https://www.huckleberryway.ca/blog/agentic-ai-from-retrieval-to-reasoning-web) by Von Darnell, April 2026. How agentic retrieval changes what a business needs to build, from content to entity architecture.
+- [A CEO's Guide to Building Authority in the Age of AI](https://www.huckleberryway.ca/blog/a-ceos-guide-to-building-authority-in-the-age-of-ai), October 2025. How prospects use Google for final verification, and why a system of verifiable authority wins that moment.
+- [How to Get Found with Zero-Click Search](https://www.huckleberryway.ca/blog/ai-search-for-business), July 2025. Staying visible when Google's AI search builds the answer itself.
+- [How Much is the Google Map Pack Worth to You?](https://www.huckleberryway.ca/blog/blog-map-pack), July 2025. The dollar value of ranking in Google's Map Pack for local businesses in Ontario.
+- [How AI-Powered Reviews Can Transform Your Business](https://www.huckleberryway.ca/blog/how-ai-powered-reviews-for-business-transformation), March 2023. Collecting reviews and replying to them; the forerunner of Smart Reviews.
+
+## 12. Contact
 - **Website:** https://www.huckleberryway.ca
 - **Enquiries:** https://www.huckleberryway.ca/contact
 - **Email:** hello@huckleberryway.ca
 - **Phone:** +1 226-444-0372
 - **Location:** Waterloo, Ontario, Canada
 
-## 12. Content use
+## 13. Content use
 - **Search, and inference and citation in AI assistants:** permitted.
 - **Training AI models:** not permitted without written permission (Content-Signal: ai-train=no).
 - **Attribution:** When citing Huckleberry Way, use the canonical URL of the page or article.
