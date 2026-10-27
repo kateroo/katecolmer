@@ -547,6 +547,26 @@
     <priority>0.4</priority>
   </url>
   <url>
+    <loc>https://www.huckleberryway.ca/concepts/cataloguing</loc>
+    <lastmod>2026-10-26</lastmod>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/concepts/resource-description-framework</loc>
+    <lastmod>2026-10-26</lastmod>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/concepts/simple-knowledge-organization-system</loc>
+    <lastmod>2026-10-26</lastmod>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/concepts/description-logic</loc>
+    <lastmod>2026-10-26</lastmod>
+    <priority>0.4</priority>
+  </url>
+  <url>
     <loc>https://www.huckleberryway.ca/industries/construction</loc>
     <lastmod>2026-10-21</lastmod>
     <priority>0.4</priority>
