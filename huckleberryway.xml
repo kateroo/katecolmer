@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.huckleberryway.ca/</loc>
-    <lastmod>2026-04-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/how-it-works</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/authority-record</loc>
-    <lastmod>2026-03-05</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/smart-reviews</loc>
-    <lastmod>2025-08-23</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/work</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/case-study-excellent-sign-group</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/case-study-aquascapes</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/case-study-prescientx</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -47,57 +47,57 @@
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/about</loc>
-    <lastmod>2026-03-05</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/contact</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/von-darnell</loc>
-    <lastmod>2026-03-05</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/margaret-sampson</loc>
-    <lastmod>2026-04-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/kate-colmer</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/tools/ai-readiness-check</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/case-study-maple-leaf-foods</loc>
-    <lastmod>2025-08-23</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/case-study-toyota</loc>
-    <lastmod>2025-08-23</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/case-study-microsoft</loc>
-    <lastmod>2025-08-23</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/blog</loc>
-    <lastmod>2025-09-01</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/proof-engine</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -137,22 +137,22 @@
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/graph</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/terms-and-conditions</loc>
-    <lastmod>2025-08-23</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/privacy-policy</loc>
-    <lastmod>2025-08-23</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://www.huckleberryway.ca/generative-ai-usage-policy</loc>
-    <lastmod>2025-08-23</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <priority>0.1</priority>
   </url>
   <!-- Concept scheme (indexing on Oct 21 2026, Von): the hub, 78 concepts, 13 industries. Client pages stay out (noindex). -->
@@ -630,5 +630,15 @@
     <loc>https://www.huckleberryway.ca/industries/sign-design-and-fabrication</loc>
     <lastmod>2026-10-21</lastmod>
     <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/llms.txt</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.huckleberryway.ca/llms-full.txt</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.5</priority>
   </url>
 </urlset>
