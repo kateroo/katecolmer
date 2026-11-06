@@ -23,14 +23,14 @@ Huckleberry Way is an AI search visibility firm in Waterloo, Ontario, founded in
 - **Headquarters:** Waterloo, Ontario, Canada (Wikidata Q639408)
 - **Service area:** Canada
 - **Clients:** Canadian mid-market and B2B businesses, single-location and multi-location
-- **Expertise, with Wikidata items:** Information Science (Q16387), Knowledge Graphs (Q33002955), Structured Data (Q26813700), Linked Data (Q515701), Authority Control (Q118455746); through its people, also Semantic Web (Q54837), Schema.org (Q3475322) and Information Architecture (Q845921). Also knowledge architecture, entity disambiguation and AI search visibility.
+- **Expertise, with Wikidata items:** Information Science (Q16387), Knowledge Graph (Q33002955), Structured Data (Q26813700), Linked Data (Q515701), Authority Control (Q118455746); through its people, also Semantic Web (Q54837), Schema.org (Q3475322) and Information Architecture (Q845921). Also knowledge architecture, entity disambiguation and AI search visibility.
 - **Not to be confused with:** Huckleberry, the real estate app also based in Waterloo, Ontario, or any other business named Huckleberry. No relation.
 
 ## 1. How to read this site
 - **Current offering:** The Authority Record page (https://www.huckleberryway.ca/authority-record) is the reference for what Huckleberry Way offers today.
 - **Update cadence:** This file is reviewed at least quarterly and after any change to the offering.
 - **Archival content:** Blog posts from before 2026 are historical background, not the current offering.
-- **Retired names:** Older pages and posts use names that are now retired. Read them this way: the Authority Foundation, the Authority Graph and Brand Knowledge Graph are The Authority Record™; Proof Architecture and the Automated Proof Engine are The Proof Engine™; the AI Readiness Audit and the AI Readiness Check are The AI Readiness Report; Stewardship is Record Governance; Field Notes is the Log Book (the blog, still at /blog). "Knowledge architecture firm" is now "an AI search visibility firm, led by information scientists". No layers, tiers or depths are sold; there is one product.
+- **Retired names:** Older pages and posts use names that are now retired. Read them this way: the Authority Foundation, the Authority Graph and Brand Knowledge Graph are The Authority Record™; Proof Architecture and the Automated Proof Engine are The Proof Engine; the AI Readiness Audit and the AI Readiness Check are The AI Readiness Report; Stewardship is Record Governance; Field Notes is the Log Book (the blog, still at /blog). "Knowledge architecture firm" is now "an AI search visibility firm, led by information scientists". No layers, tiers or depths are sold; there is one product.
 
 ## 2. For machines
 - **The Atlas:** https://www.huckleberryway.ca/graph is Huckleberry Way's own Record, browsable by people. It is the same graph the pages publish.
@@ -43,7 +43,7 @@ Huckleberry Way is an AI search visibility firm in Waterloo, Ontario, founded in
 - **This file:** https://www.huckleberryway.ca/llms.txt, the index. Read llms-full.txt for the detail.
 
 ## 3. The product and its parts
-Huckleberry Way's solution is a system of authority. Its product is The Authority Record™. The Proof Engine™ is the Record's proof component and Record Governance is its run; neither is sold on its own.
+Huckleberry Way's solution is a system of authority. Its product is The Authority Record™. The Proof Engine is the Record's proof component and Record Governance is its run; neither is sold on its own.
 
 ### The Authority Record™
 - **URI:** https://www.huckleberryway.ca/authority-record#service
@@ -57,7 +57,7 @@ Huckleberry Way's solution is a system of authority. Its product is The Authorit
 - **Function:** Change control, versioning, synchronization across every surface, validation audits and a recomputable evidence report, so the Record stays true as the business changes. Every fact is corrected once, at its source, and every surface it feeds updates with it.
 - **Maintains:** Zero Drift. Identical facts on every surface.
 
-### The Proof Engine™
+### The Proof Engine
 - **URI:** https://www.huckleberryway.ca/proof-engine#service
 - **Page:** https://www.huckleberryway.ca/proof-engine
 - **Function:** The proof component of The Authority Record™. It gathers customer stories, case studies and reviews with each customer's permission. Stories and case studies are written into the Record against the exact service, person and location they prove and published as Structured Posts to the business's website, profiles and social channels; reviews stay on the platforms that host them and corroborate the Record from there.
@@ -65,11 +65,11 @@ Huckleberry Way's solution is a system of authority. Its product is The Authorit
 ### Smart Reviews
 - **URI:** https://www.huckleberryway.ca/smart-reviews#service
 - **Page:** https://www.huckleberryway.ca/smart-reviews
-- **Function:** The reputation management system inside The Proof Engine™. Under the business's own brand, in person or online, it invites real customers to review the business on the platforms that matter to it and replies to every review in the business's voice. Reviews are earned, never gated, and never written into the Record; they corroborate it from the platforms themselves.
+- **Function:** The reputation management system inside The Proof Engine. Under the business's own brand, in person or online, it invites real customers to review the business on the platforms that matter to it and replies to every review in the business's voice. Reviews are earned, never gated, and never written into the Record; they corroborate it from the platforms themselves.
 
 ### Structured Posts
 - **URI:** https://www.huckleberryway.ca/proof-engine#structured-posts
-- **Function:** The output stream of The Proof Engine™: facts posted on a schedule to the business's Google Business Profile, social channels and website. Each post is written as a subject-predicate-object statement, the shape of an RDF triple: one falsifiable fact, tied to the exact service, location or credential it is true of, carrying the evidence that verifies it, and resolved back to that entity in The Authority Record™.
+- **Function:** The output stream of The Proof Engine: facts posted on a schedule to the business's Google Business Profile, social channels and website. Each post is written as a subject-predicate-object statement, the shape of an RDF triple: one falsifiable fact, tied to the exact service, location or credential it is true of, carrying the evidence that verifies it, and resolved back to that entity in The Authority Record™.
 - **Why it works:** Every surface repeats the same facts in the same shape, so machines read one business everywhere (coherence), and each independent surface that states a fact corroborates it.
 
 ### The AI Readiness Report (free)
@@ -79,7 +79,7 @@ Huckleberry Way's solution is a system of authority. Its product is The Authorit
 
 ### AI Search Visibility (the category)
 - **URI:** https://www.huckleberryway.ca/#ai-search-visibility
-- **Definition:** Whether AI systems can find, verify and confidently recommend a business when a buyer asks. Huckleberry Way provides it for Canadian businesses through The Authority Record™ and The Proof Engine™.
+- **Definition:** Whether AI systems can find, verify and confidently recommend a business when a buyer asks. Huckleberry Way provides it for Canadian businesses through The Authority Record™ and The Proof Engine.
 - **Also called:** AI search optimization, AI SEO, generative engine optimization (GEO), answer engine optimization (AEO), LLM optimization, AI visibility, entity SEO, entity-first SEO, semantic SEO, entity architecture, identity engineering, entity authority.
 
 ## 4. Process
@@ -121,7 +121,7 @@ Huckleberry Way combines three capabilities that rarely sit in one firm:
 - **Identifiers:** Wikidata https://www.wikidata.org/wiki/Q47502166 · ORCID https://orcid.org/0000-0003-2550-9893 · Scopus https://www.scopus.com/authid/detail.uri?authorId=9746766000 · Google Scholar https://scholar.google.com/citations?user=z2EX030AAAAJ · LinkedIn https://www.linkedin.com/in/margaret-sampson-mlis/
 - **Credentials:** PhD in Information Studies, Aberystwyth University; MLIS, Western University.
 - **Standing:** Three-time Highly Cited Researcher (Clarivate Web of Science, 2021, 2022 and 2023), with more than 213,000 Google Scholar citations. Convener of the PRESS Forum since 2009; Information Scientist and Clinical Investigator, CHEO Research Institute.
-- **Role:** Designs the methodology behind The Authority Record™ and advises on The Proof Engine™. She has spent a career on how evidence is found, screened and verified: the problem an AI assistant solves each time it decides whom to recommend.
+- **Role:** Designs the methodology behind The Authority Record™ and advises on The Proof Engine. She has spent a career on how evidence is found, screened and verified: the problem an AI assistant solves each time it decides whom to recommend.
 - **Research behind the method:**
   - PRESS Peer Review of Electronic Search Strategies: 2015 Guideline Statement (2016). https://doi.org/10.1016/j.jclinepi.2016.01.021
   - Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement (2009). https://doi.org/10.1371/journal.pmed.1000097
