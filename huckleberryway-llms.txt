@@ -13,12 +13,12 @@ AI recommends the businesses it can confidently resolve as one entity and verify
 
 All of it is written into one verified master record, The Authority Record™, and kept current by Record Governance, so nothing drifts as the business changes. Identity lets AI resolve the business, relationships let it reason about the business, and evidence lets it verify what the business claims: the three things AI needs before it recommends anyone.
 
-Huckleberry Way is an AI search visibility firm in Waterloo, Ontario, founded in 2014 as Huckleberry Films Inc. and led by information scientists. The discipline underneath is information science: authority control, classification and provenance. The work is also described as AI search optimization, generative engine optimization (GEO), answer engine optimization (AEO), entity SEO, entity architecture and entity authority.
+Huckleberry Way is an AI search visibility firm in Waterloo, Ontario, founded in 2014 and led by information scientists. The discipline underneath is information science: authority control, classification and provenance. The work is also described as AI search optimization, generative engine optimization (GEO), answer engine optimization (AEO), entity SEO, entity architecture and entity authority.
 
 - **Organization URI:** https://www.huckleberryway.ca/#organization
 - **Google Knowledge Graph:** https://www.google.com/search?kgmid=/g/11vx6qwm6j
 - **Google Business Profile:** https://www.google.com/maps/place/?q=place_id:ChIJ6-rxngUm4wkRrPAoNNuxRek (primary category: Marketing consultant)
-- **Legal entity:** Huckleberry Films Inc., incorporated in Canada in 2014 (https://www.huckleberryway.ca/#parent-corporation, https://www.huckleberryfilms.ca). Huckleberry Way is its registered operating name. D-U-N-S 207262668; federal corporation number 899509-5; Ontario business name registration 1001018568.
+- **Legal name:** Huckleberry Films Inc., incorporated in Canada in 2014; the firm is known as Huckleberry Way and carries the legal identity itself (https://www.huckleberryway.ca/#organization). D-U-N-S 207262668; federal corporation number 899509-5; Ontario business name registration 1001018568.
 - **Industry:** NAICS (Canada, 2022) 541619
 - **Headquarters:** Waterloo, Ontario, Canada (Wikidata Q639408)
 - **Service area:** Canada
@@ -103,7 +103,7 @@ Most businesses give it a website and a handful of profiles that half agree. The
 ## 7. The method, and who practises it
 Huckleberry Way combines three capabilities that rarely sit in one firm:
 1. **Information science:** a PhD and MLIS-credentialed team applying authority control, classification, provenance and entity modelling, the disciplines that built the retrieval systems AI now depends on. Its Chief Information Scientist's work includes the PRESS guideline, the international standard for peer-reviewing search strategies.
-2. **Proof-of-expertise content:** under the Huckleberry Films name, a decade of enterprise content for clients including Microsoft, Toyota and Maple Leaf Foods; proof written to be read by people and structured to be checked by machines.
+2. **Proof-of-expertise content:** a decade of enterprise content for clients including Microsoft, Toyota and Maple Leaf Foods; proof written to be read by people and structured to be checked by machines.
 3. **Enterprise systems:** a decade building enterprise software at SAP BusinessObjects and Agfa HealthCare, which shapes how a business's real structure maps to its Record.
 
 ## 8. People
@@ -113,7 +113,7 @@ Huckleberry Way combines three capabilities that rarely sit in one firm:
 - **Page:** https://www.huckleberryway.ca/von-darnell
 - **LinkedIn:** https://www.linkedin.com/in/vondarnell/
 - **Credentials:** Honours BA, English Language and Literature; Master of Library and Information Science, Western University, where her graduate research was on citation clustering and search engines.
-- **Background:** A decade building enterprise software at SAP BusinessObjects and Agfa HealthCare, then a decade leading Huckleberry Films. Founded Huckleberry Way and leads every client engagement.
+- **Background:** A decade building enterprise software at SAP BusinessObjects and Agfa HealthCare, then founded Huckleberry Way in 2014, led its first decade of proof-of-expertise work for enterprise clients, and leads every client engagement.
 
 ### Margaret Sampson, PhD, MLIS, Chief Information Scientist
 - **URI:** https://www.huckleberryway.ca/margaret-sampson#person
@@ -142,7 +142,7 @@ Huckleberry Way combines three capabilities that rarely sit in one firm:
 - [Prescientx](https://www.huckleberryway.ca/case-study-prescientx): Waterloo healthcare supplier; from September 2025 to September 2026, sales pipeline value up about 300 percent (as validated by the client), qualified inbound opportunities fourfold (from its CRM) and website traffic up 450 percent.
 - [Kitchener credit union](https://www.huckleberryway.ca/case-study-kitchener-credit-union): a member-owned credit union with a head office and eight branches in Ontario; from June to September 2026, Google AI citations of its location pages up 285 percent and their Bing visits up 198 percent.
 
-More of the work, including a decade of proof-of-expertise content under the Huckleberry Films name: https://www.huckleberryway.ca/work
+More of the work, including a decade of proof-of-expertise content for enterprise clients: https://www.huckleberryway.ca/work
 
 ## 10. The vocabulary
 Every term Huckleberry Way uses has one definition, on its own page, in six groups:
@@ -151,7 +151,7 @@ Every term Huckleberry Way uses has one definition, on its own page, in six grou
 - [Artificial Intelligence](https://www.huckleberryway.ca/concepts/artificial-intelligence): the systems that now read, reason over and recommend businesses.
 - [Knowledge Architecture](https://www.huckleberryway.ca/concepts/knowledge-architecture): structured, machine-readable representations of what a business knows and has proven.
 - [AI Search Visibility](https://www.huckleberryway.ca/concepts/ai-search-visibility): whether AI systems can find, verify and confidently recommend a business.
-- [Sectors Served](https://www.huckleberryway.ca/industries/sectors-served): the sectors the firm has worked in, each with the niche inside it.
+- [Industries Served](https://www.huckleberryway.ca/industries/sectors-served): the industries the firm has worked in, each with the niche inside it.
 
 ## 11. The Log Book
 The blog, at https://www.huckleberryway.ca/blog. Posts from 2025 and earlier are background, not the current offering.
